@@ -1,5 +1,3 @@
-# Advanced-Math-Quiz-Game
-A GUI-based Math Quiz built in Java that generates random addition &amp; subtraction questions, tracks scores, and saves results to a file.
 # Advanced Math Quiz
 
 A Java-based desktop application that presents users with randomized addition and subtraction questions through a graphical user interface (GUI). The quiz tracks the user's score in real time and saves the final result to a text file upon completion. The project demonstrates core Object-Oriented Programming (OOP) concepts including abstraction, inheritance, polymorphism, event handling, collections, and file I/O — all built using Java Swing.
