@@ -49,7 +49,7 @@ The purpose of this project is to build an interactive Math Quiz application tha
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Eman-here/Advanced-Math-Quiz-Game.git
 
 # Step 2: Navigate into the project folder
 cd Advanced-Math-Quiz-Game
@@ -76,7 +76,7 @@ java AdvancedMathQuiz
 
 ---
 🔗 GitHub Repository
-🔗 https://github.com/Eman-here/Advanced-Math-Quiz-Game.git
+🔗 https://github.com/Eman-here/Advanced-Math-Quiz-Game
 
 ## 📁 Project Structure
 
