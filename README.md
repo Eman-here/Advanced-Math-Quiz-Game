@@ -76,7 +76,7 @@ java AdvancedMathQuiz
 
 ---
 🔗 GitHub Repository
-🔗 https://github.com/Eman-here/Advanced-Math-Quiz-Game/edit/main/README.md
+🔗 https://github.com/Eman-here/Advanced-Math-Quiz-Game.git
 
 ## 📁 Project Structure
 
