@@ -29,11 +29,13 @@ The purpose of this project is to build an interactive Math Quiz application tha
 | `AdvancedMathQuiz` | Main class — handles the GUI, event handling, score tracking, and file saving |
 
 **Key Concepts Used:**
+- **OOP Concepts** — Classes, Objects, Encapsulation
 - **Abstraction** — `Question` abstract class
 - **Inheritance & Polymorphism** — `AdditionQuestion` and `SubtractionQuestion` extend `Question`
 - **Collections** — `ArrayList` used to store and shuffle questions
 - **Event Handling** — `ActionListener` for button interactions
 - **File Handling** — Score saved to `score.txt` using `FileWriter`
+- **Exceptional Handling** — NumberFormatException caught for invalid input; IOException caught for file errors
 
 ---
 
