@@ -52,7 +52,7 @@ The purpose of this project is to build an interactive Math Quiz application tha
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
 # Step 2: Navigate into the project folder
-cd YOUR_REPO_NAME
+cd Advanced-Math-Quiz-Game
 
 # Step 3: Compile the Java file
 javac AdvancedMathQuiz.java
